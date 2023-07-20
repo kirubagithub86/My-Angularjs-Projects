@@ -1,0 +1,23 @@
+h2{
+    margin-left: 20%;
+}
+h3{
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20%;
+}
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: cornflowerblue;
+    margin-left: 20%;
+}
+li{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    margin-left: 20%;
+    list-style-type: none;
+    font-weight: bold;
+}
+img{
+    height: 50px;
+    width: 50px;
+}

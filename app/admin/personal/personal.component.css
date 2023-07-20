@@ -1,0 +1,13 @@
+div{
+    margin-left: 4%;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+table{
+    background-color: black;
+    margin-left: 5%;
+    font-weight: bold;
+}
